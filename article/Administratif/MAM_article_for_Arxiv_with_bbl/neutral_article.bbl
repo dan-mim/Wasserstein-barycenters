@@ -1,0 +1,214 @@
+\begin{thebibliography}{10}
+
+\bibitem{Carlier}
+Martial Agueh and Guillaume Carlier.
+\newblock Barycenters in the wasserstein space.
+\newblock {\em Siam Journal on Mathematical Analysis}, 43(2):904--924, 2011.
+
+\bibitem{Randomized_PHA_2020}
+Gilles Bareilles, Yassine Laguel, Dmitry Grishchenko, Franck Iutzeler, and
+  J{\'{e}}r{\^{o}}me Malick.
+\newblock Randomized progressive hedging methods for multi-stage stochastic
+  programming.
+\newblock {\em Annals of Operations Research}, 295(2):535--560, sep 2020.
+
+\bibitem{Bauschke_Combettes_2017}
+Heinz~H. Bauschke and Patrick~L. Combettes.
+\newblock {\em Convex Analysis and Monotone Operator Theory in Hilbert Spaces}.
+\newblock Springer International Publishing, 2nd edition, 2017.
+
+\bibitem{IBP}
+Jean-David Benamou, Guillaume Carlier, Marco Cuturi, Luca Nenna, and Gabriel
+  Peyré.
+\newblock Iterative bregman projections for regularized transportation
+  problems.
+\newblock {\em SIAM Journal on Scientific Computing}, 37(2):1111--1138, 2015.
+
+\bibitem{Bertsekas_2015}
+Dimitri~P. Bertsekas.
+\newblock {\em Convex Optimization Algorithms}.
+\newblock Number 1st. Athena Scientific, 2015.
+
+\bibitem{Borgwardt_2022}
+Steffen Borgwardt.
+\newblock An lp-based, strongly-polynomial 2-approximation algorithm for sparse
+  wasserstein barycenters.
+\newblock {\em Operational Research}, 22(2):1511--1551, Apr 2022.
+
+\bibitem{Carlier_Oberman_Oudet_2015}
+Guillaume Carlier, Adam Oberman, and Edouard Oudet.
+\newblock Numerical methods for matching for teams and wasserstein barycenters.
+\newblock {\em {ESAIM}: Mathematical Modelling and Numerical Analysis},
+  49(6):1621--1642, nov 2015.
+
+\bibitem{Condat_2016}
+Laurent Condat.
+\newblock Fast projection onto the simplex and the $\pmb {l}_\mathbf {1}$ball.
+\newblock {\em Mathematical Programming}, 158(1):575--585, Jul 2016.
+
+\bibitem{Cuturi_2013}
+Marco Cuturi.
+\newblock Sinkhorn distances: Lightspeed computation of optimal transport.
+\newblock In C.J. Burges, L.~Bottou, M.~Welling, Z.~Ghahramani, and K.Q.
+  Weinberger, editors, {\em Advances in Neural Information Processing Systems},
+  volume~26. Curran Associates, Inc., 2013.
+
+\bibitem{Cuturi_Doucet_14}
+Marco Cuturi and Arnaud Doucet.
+\newblock Fast computation of wasserstein barycenters.
+\newblock In Eric~P. Xing and Tony Jebara, editors, {\em Proceedings of the
+  31st International Conference on Machine Learning}, volume~32 of {\em
+  Proceedings of Machine Learning Research}, pages 685--693, Bejing, China,
+  22--24 Jun 2014. PMLR.
+
+\bibitem{Cuturi}
+Marco Cuturi and Arnaud Doucet.
+\newblock Fast computation of wasserstein barycenters.
+\newblock {\em International Conference on Machine Learning}, 32(2):685--693,
+  2014.
+
+\bibitem{Cuturi_Peyre_2016}
+Marco Cuturi and Gabriel Peyr\'{e}.
+\newblock A smoothed dual approach for variational wasserstein problems.
+\newblock {\em SIAM Journal on Imaging Sciences}, 9(1):320--343, 2016.
+
+\bibitem{Oliveira_CEPEL_2009}
+Welington {de Oliveira}, Claudia Sagastiz\'abal, D\'ebora Dias~Jardim Penna,
+  Maria Elvira~Pineiro Maceira, and Jorge~Machado Dam\'azio.
+\newblock Optimal scenario tree reduction for stochastic streamflows in power
+  generation planning problems.
+\newblock {\em Optimization Methods and Software}, 25(6):917--936, 2010.
+
+\bibitem{Douglas_Rachford_1956}
+Jim Douglas and H.~H. Rachford.
+\newblock On the numerical solution of heat conduction problems in two and
+  three space variables.
+\newblock {\em Transactions of the American Mathematical Society},
+  82(2):421--439, 1956.
+
+\bibitem{Eckstein_Bertsekas_1992}
+Jonathan Eckstein and Dimitri~P. Bertsekas.
+\newblock On the douglas{\textemdash}rachford splitting method and the proximal
+  point algorithm for maximal monotone operators.
+\newblock {\em Mathematical Programming}, 55(1-3):293--318, apr 1992.
+
+\bibitem{Accelerated_DR_2020}
+Anqi Fu, Junzi Zhang, and Stephen Boyd.
+\newblock Anderson accelerated douglas--rachford splitting.
+\newblock {\em {SIAM} Journal on Scientific Computing}, 42(6):A3560--A3583, jan
+  2020.
+
+\bibitem{Gramfort_Pyre_Cuturi_2015}
+A.~Gramfort, G.~Peyr{\'e}, and M.~Cuturi.
+\newblock Fast optimal transport averaging of neuroimaging data.
+\newblock In Sebastien Ourselin, Daniel~C. Alexander, Carl-Fredrik Westin, and
+  M.~Jorge Cardoso, editors, {\em Information Processing in Medical Imaging},
+  pages 261--272, Cham, 2015. Springer International Publishing.
+
+\bibitem{tartavel2016wasserstein}
+Tartavel Guillaume, Peyr{\'e} Gabriel, and Gousseau Yann.
+\newblock Wasserstein loss for image synthesis and restoration.
+\newblock {\em SIAM Journal on Imaging Sciences}, 9(4):1726--1755, 2016.
+
+\bibitem{Heinemann_Klatt_Munk_2022}
+Florian Heinemann, Marcel Klatt, and Axel Munk.
+\newblock Kantorovich--rubinstein distance and barycenter for finitely
+  supported measures: Foundations and algorithms.
+\newblock {\em Applied Mathematics {\&} Optimization}, 87(1):4, Nov 2022.
+
+\bibitem{Iutzeler_2013}
+Franck Iutzeler, Pascal Bianchi, Philippe Ciblat, and Walid Hachem.
+\newblock Asynchronous distributed optimization using a randomized alternating
+  direction method of multipliers.
+\newblock In {\em 52nd {IEEE} Conference on Decision and Control}. {IEEE}, dec
+  2013.
+
+\bibitem{IBP_github}
+Gabriel Peyré.
+\newblock Bregmanot, 2014.
+
+\bibitem{Peyre_Cuturi_2019}
+Gabriel Peyré and Marco Cuturi.
+\newblock Computational optimal transport: With applications to data science.
+\newblock {\em Foundations and Trends in Machine Learning}, 11(5-6):355--607,
+  2019.
+
+\bibitem{Pflug_Pichler_2014}
+Georg~Ch. Pflug and Alois Pichler.
+\newblock {\em Multistage Stochastic Optimization}.
+\newblock Springer International Publishing, 2014.
+
+\bibitem{Puccetti}
+Giovanni Puccetti, Ludger Rüschendorf, and Steven Vanduffel.
+\newblock On the computation of wasserstein barycenters.
+\newblock {\em Journal of Multivariate Analysis}, 176(104581), 2020.
+
+\bibitem{Rubner_2000}
+Yossi Rubner, Carlo Tomasi, and Leonidas~J. Guibas.
+\newblock The earth mover's distance as a metric for image retrieval.
+\newblock {\em International Journal of Computer Vision}, 40(2):99--121, Nov
+  2000.
+
+\bibitem{Sejourne_Peyre_Vialard_2023}
+Thibault Sejourne, Gabriel Peyre, and Francois-Xavier Vialard.
+\newblock Unbalanced optimal transport, from theory to numerics.
+\newblock {\em Handbook of Numerical Analysis}, 24:407--471, 2023.
+
+\bibitem{simon2020barycenters}
+Dror Simon and Aviad Aberdam.
+\newblock Barycenters of natural images constrained wasserstein barycenters for
+  image morphing.
+\newblock In {\em Proceedings of the IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition}, pages 7910--7919, 2020.
+
+\bibitem{Sinkhorn_1974}
+Richard Sinkhorn.
+\newblock Diagonal equivalence to matrices with prescribed row and column sums.
+  ii.
+\newblock {\em Proceedings of the American Mathematical Society},
+  45(2):195--198, 1974.
+
+\bibitem{MNIST_database}
+Tijmen.
+\newblock affnist, 2013.
+
+\bibitem{Villani_2009}
+Cedric Villani.
+\newblock {\em Optimal transport: onld and new}, volume 338.
+\newblock Springer Verlag, 2009.
+
+\bibitem{B-ADMM}
+Huahua Wang and Arindam Banerjee.
+\newblock Bregman alternating direction method of multipliers.
+\newblock In Z.~Ghahramani, M.~Welling, C.~Cortes, N.~Lawrence, and K.Q.
+  Weinberger, editors, {\em Advances in Neural Information Processing Systems},
+  volume~27. Curran Associates, Inc., 2014.
+
+\bibitem{Watson_Woodruff_2010}
+Jean-Paul Watson and David~L. Woodruff.
+\newblock Progressive hedging innovations for a class of stochastic
+  mixed-integer resource allocation problems.
+\newblock {\em Computational Management Science}, 8(4):355--370, jul 2010.
+
+\bibitem{ADMM_Figueiredo_2017}
+Zheng Xu, Mario Figueiredo, and Tom Goldstein.
+\newblock {Adaptive ADMM with Spectral Penalty Parameter Selection}.
+\newblock In Aarti Singh and Jerry Zhu, editors, {\em Proceedings of the 20th
+  International Conference on Artificial Intelligence and Statistics},
+  volume~54 of {\em Proceedings of Machine Learning Research}, pages 718--727.
+  PMLR, 20--22 Apr 2017.
+
+\bibitem{Ye_ADMM}
+Jianbo Ye and Jia Li.
+\newblock Scaling up discrete distribution clustering using {ADMM}.
+\newblock In {\em 2014 IEEE International Conference on Image Processing
+  (ICIP)}, pages 5267--5271, 2014.
+
+\bibitem{J.Ye}
+Jianbo Ye, Panruo Wu, James~Z. Wang, and Jia Li.
+\newblock Fast discrete distribution clustering using wasserstein barycenter
+  with sparse support.
+\newblock {\em IEEE Transactions on Signal Processing}, 65:2317--2332, May
+  2017.
+
+\end{thebibliography}
